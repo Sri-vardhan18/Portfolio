@@ -33,7 +33,7 @@ const data = [
 ];
 
 const resumeDriveLink =
-  "https://drive.google.com/file/d/1jhY3pAiBZzvoCYRmT_PDDslu7NQ5dnmn/view?usp=drive_link";
+  "https://drive.google.com/file/d/1rG0ZAOrdu5AY0QVLpF2w1a0dF6VJCyPX/view?usp=sharing";
 
 const downloadResume = () => {
   const link = document.createElement("a");
