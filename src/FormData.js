@@ -12,7 +12,7 @@ const data = [
   {
     image: image,
     URLType:
-      "https://64b547a4529e9900086d34d8--frolicking-pothos-0c5f40.netlify.app/",
+      "https://frolicking-pothos-0c5f40.netlify.app/",
     Title: "Foodify",
   },
   {
