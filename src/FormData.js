@@ -3,7 +3,8 @@ import image from "./Images/Foodify.jpg";
 import image2 from "./Images/Media.png";
 import image3 from "./Images/qrcode.jpg";
 import image4 from "./Images/Microsoft.png";
-import image5 from "./Images/resume.jpg";
+import image5 from "./Images/resume.jpg"; 
+import image6 from "./Images/image6.jpg";
 
 import "./App.css";
 import Navbar from "./navbar";
@@ -29,6 +30,11 @@ const data = [
     image: image4,
     URLType: "https://zesty-parfait-406e9e.netlify.app/",
     Title: "Cell-Image",
+  }, 
+  {
+    image: image6,
+    URLType: "https://chat-app-pjcm.onrender.com/",
+    Title: "ChatApp",
   },
 ];
 
